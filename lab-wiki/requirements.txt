@@ -1,0 +1,4 @@
+asciitree
+Markdown
+# as of 06/07/2017, the master version on GitHub fails, yet this 0.6.2 works! On Python 3.6
+pybtex
